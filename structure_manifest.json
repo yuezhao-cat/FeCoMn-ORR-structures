@@ -1,0 +1,110 @@
+[
+  {
+    "path": "structures/FeCoMn-NC/base/POSCAR",
+    "sample": "FeCoMn-NC",
+    "state": "base",
+    "atoms": 248,
+    "formula": "C174HCo32Fe27MnN4O9",
+    "sha256": "f9b164c5ac08573cf00906a48dcaa0380a0d572c30e9ec73cd884a87aa98f5a1",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCoMn-NC/OOH/POSCAR",
+    "sample": "FeCoMn-NC",
+    "state": "OOH",
+    "atoms": 251,
+    "formula": "C174H2Co32Fe27MnN4O11",
+    "sha256": "2de41cefe7b1126afd0eb630f9ef6c7b7a8b2be6815000a21eae283d6fc7f05b",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCoMn-NC/O/POSCAR",
+    "sample": "FeCoMn-NC",
+    "state": "O",
+    "atoms": 249,
+    "formula": "C174HCo32Fe27MnN4O10",
+    "sha256": "f97dddfb3692255088e4d41f62ea8d80d2ed58269cc8a8325225bc76a1b00ca0",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCoMn-NC/OH/POSCAR",
+    "sample": "FeCoMn-NC",
+    "state": "OH",
+    "atoms": 250,
+    "formula": "C174H2Co32Fe27MnN4O10",
+    "sha256": "caef22ebde25966a2d86fb1ca78d4744800f7635d5b9d220b44b2edacf54b3d3",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCo-NC/base/POSCAR",
+    "sample": "FeCo-NC",
+    "state": "base",
+    "atoms": 247,
+    "formula": "C180Co32Fe27O8",
+    "sha256": "b6ebbcf94ec431a61bb9b8aebca5d30ee981848320a211ad9b325b021ebfe4bc",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCo-NC/OOH/POSCAR",
+    "sample": "FeCo-NC",
+    "state": "OOH",
+    "atoms": 250,
+    "formula": "C180HCo32Fe27O10",
+    "sha256": "7578f18a4a8f68c5741b6f15b1a52d76ed2e3d1f17e197b9c3bdc9b40ba38231",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCo-NC/O/POSCAR",
+    "sample": "FeCo-NC",
+    "state": "O",
+    "atoms": 248,
+    "formula": "C180Co32Fe27O9",
+    "sha256": "fb8616b41c6963a90e1ccad22d8846dd84a03994818145fb57e5366c339a2ce6",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/FeCo-NC/OH/POSCAR",
+    "sample": "FeCo-NC",
+    "state": "OH",
+    "atoms": 249,
+    "formula": "C180HCo32Fe27O9",
+    "sha256": "782674d6d96428c4a361c71a9ca4221b464fadd81df8b1df068691031564e44d",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/Mn-NC/base/POSCAR",
+    "sample": "Mn-NC",
+    "state": "base",
+    "atoms": 180,
+    "formula": "C174MnN4O",
+    "sha256": "b01683e4a7529462e678c30f3dadb0bc48f7f50a0171734ac448895c393f41d3",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/Mn-NC/OOH/POSCAR",
+    "sample": "Mn-NC",
+    "state": "OOH",
+    "atoms": 183,
+    "formula": "C174HMnN4O3",
+    "sha256": "64b8bc07ed08ee5918a14a169bfa325860c17ca13f703743d542fca9fa3aaf21",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/Mn-NC/O/POSCAR",
+    "sample": "Mn-NC",
+    "state": "O",
+    "atoms": 181,
+    "formula": "C174MnN4O2",
+    "sha256": "6bf9ad180c41641cf0dc756b26f0cccd2e61604db270c8a46b16a9e814214602",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  },
+  {
+    "path": "structures/Mn-NC/OH/POSCAR",
+    "sample": "Mn-NC",
+    "state": "OH",
+    "atoms": 182,
+    "formula": "C174HMnN4O2",
+    "sha256": "c6e949785a78ff46e2be022a8fb9cfc300b1130284a36ef54344501d6cccdd63",
+    "geometry": "relaxed coordinates used by the corresponding ORR path"
+  }
+]
