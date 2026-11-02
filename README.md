@@ -1,6 +1,6 @@
 # FeCoMn ORR structures
 
-Initial structure deposit for the FeCoMn–NC / FeCo–NC / Mn–NC manuscript.
+Selected ORR background and intermediate structures for the FeCoMn–NC / FeCo–NC / Mn–NC manuscript.
 
 ## Contents
 
@@ -10,6 +10,6 @@ Twelve relaxed structures: the background and OOH, O and OH reaction states for 
 - FeCo–NC: oxygen-covered Fe27Co32 particle background with eight oxygen atoms; added intermediates bind on the particle.
 - Mn–NC: Mn–N4 model with an axial oxygen background; intermediates bind on the opposite side.
 
-The state `OH` in FeCoMn–NC therefore contains the retained axial hydroxyl plus the reaction hydroxyl. It is the final adsorbed intermediate in that ORR path, not a separate background selected using a degeneracy cutoff.
+The state `OH` in FeCoMn–NC therefore contains the retained axial hydroxyl plus the reaction hydroxyl; it is the final adsorbed intermediate in that ORR path.
 
-`structure_manifest.json` identifies composition, atom count, state and SHA-256 checksum. The independent FeCo(110) coverage library and additional recovery structures are outside this initial twelve-structure deposit. No experimental datasets, manuscript files, licensed PAW potentials or charge/wavefunction files are included.
+`structure_manifest.json` identifies composition, atom count, state and SHA-256 checksum. The independent FeCo(110) coverage library and additional recovery structures are not included in this deposit. No experimental datasets, manuscript files, licensed PAW potentials or charge/wavefunction files are included.
